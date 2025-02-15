@@ -12,7 +12,7 @@ This project is a Streamlit web application that uses a YOLOv11 (You Only Look O
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-art-detector.git
+   git clone https://github.com/MohammadJaffar/AI-art-detection.git
    cd ai-art-detector
    ```
 
