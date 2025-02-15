@@ -21,7 +21,7 @@ This project is a Streamlit web application that uses a YOLOv11 (You Only Look O
    pip install ultralytics
    ```
    ```bash
-   pip install pip install streamlit
+   pip install streamlit
    ```
 
 ## How to run the application
